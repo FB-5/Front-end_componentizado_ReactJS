@@ -1,9 +1,16 @@
-Treinamento Bootcamp da DIO "Criando um front-end totalmente componentizado na prática com ReactJS". 
+## Treinamento Bootcamp da DIO 
 
-![Screenshot_2]()
+"Criando um front-end totalmente componentizado na prática com ReactJS". 
 
-Explorando lógica de componentes React com Hooks, reuso de implementações, controles e testes.
+![Screenshot_2](https://github.com/FB-5/Front-end_componentizado_ReactJS/blob/main/Tela.jpg)
+
+Criar uma página front-end baseada em componentes com ReactJS.
+
+Bibliotecas usadas:
+- axios
+- react-tabs
+- styled-components
 
 INSTRUTOR
 
-✔️ Matheus Benites (Full stack Software Engineer).
+✔️ Matheus Benites (Full Stack Software Engineer).
